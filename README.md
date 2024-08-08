@@ -15,7 +15,7 @@
 <h3 align="left">Techs </h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,jest,redux,git" />
+        <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,jest,redux,flutter,git" />
     </a>
 </p>
 
