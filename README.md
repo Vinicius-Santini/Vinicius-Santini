@@ -1,4 +1,4 @@
-<h1 align="center"Hi, my name is Vinícius Santini</h1>
+<h1 align="center">Hi, my name is Vinícius Santini</h1>
 <h3 align="center">I am a software developer since 2019</h3>
 <h3 align="Left">This is my personal repository, it contains a few software development projects. Feel free to contribute or make contact.</h3>
 
